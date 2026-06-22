@@ -1,5 +1,5 @@
 # Personal-FitTrack-
-# 💪 Vicky's Fitness Tracker
+# 💪 Health Fitness Tracker
 
 A modern fitness tracking web application designed for gym enthusiasts to track workouts, daily meals, supplements, water intake, and fitness progress. Built using pure HTML, CSS, and JavaScript with local storage support for a fast and lightweight experience.
 
